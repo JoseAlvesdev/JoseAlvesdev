@@ -27,7 +27,7 @@
         <li style="padding: 8px;">👨‍💻 Futuro FullStack
       </ul>
     </td>
-    <td><img width="100%" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" alt="Gif pessoa em desenho animado estudando programação"/></td>
+    <td><img width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnB0bHp4OXQ2M2cwcjB3NDZjYzJkdndhbG40OXQ4bHN2bnhjNmlqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Gif pessoa em desenho animado estudando programação"/></td>
   </tr>
 </table>
 
