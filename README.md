@@ -21,6 +21,7 @@
     <td width="50%" style="text-align: center">
       <ul>
         <li style="padding: 8px;">🎓 Graduado em Gestão Pública
+        <li style="padding: 8px;">🎓 Graduando em Engenharia de Software
         <li style="padding: 8px;">💭 Buscando uma Pós
         <li style="padding: 8px;">🖥️ Estudando Desenvolvimento de Sistemas
         <li style="padding: 8px;">🪛 Trabalhando como Freelancer
