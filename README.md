@@ -24,7 +24,6 @@
         <li style="padding: 8px;">🎓 Graduado em Gestão Pública
         <li style="padding: 8px;">💭 Buscando uma Pós
         <li style="padding: 8px;">🖥️ Estudando Desenvolvimento de Sistemas
-        <li style="padding: 8px;">🪛 Trabalhando como Freelancer
         <li style="padding: 8px;">👨‍💻 Futuro FullStack
       </ul>
     </td>
